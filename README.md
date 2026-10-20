@@ -10,7 +10,7 @@ From this directory, run:
 /Applications/XAMPP/xamppfiles/bin/php -S localhost:8000
 ```
 
-Open `http://localhost:8000`. The database is generated and seeded on the first request.
+
 
 Test accounts:
 
