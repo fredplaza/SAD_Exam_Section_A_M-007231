@@ -1,16 +1,3 @@
-# ScholarTrack MVP
-
-Browser-based scholarship-renewal system for the SAD laboratory examination. It uses PHP sessions and SQLite; no external service, password, or service-role key is required.
-
-## Run locally
-
-From this directory, run:
-
-```sh
-/Applications/XAMPP/xamppfiles/bin/php -S localhost:8000
-```
-
-
 
 Test accounts:
 
